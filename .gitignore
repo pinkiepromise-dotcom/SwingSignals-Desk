@@ -1,0 +1,9 @@
+config.json
+data/journal.db
+data/*.db
+data/tickers/
+data/krx_inbox/
+__pycache__/
+*.pyc
+.DS_Store
+*.log
